@@ -3555,7 +3555,7 @@ EOT;
 
     1.F.
 
-    1.F.1.  Project Gutenberg volunteers and employees expend considerable
+    1.F.1.  Project Gutenberg volunteers and employee expend considerable
     effort to identify, do copyright research on, transcribe and proofread
     public domain works in creating the Project Gutenberg-tm
     collection.  Despite these efforts, Project Gutenberg-tm electronic
@@ -3649,7 +3649,7 @@ EOT;
     permitted by U.S. federal laws and your state's laws.
 
     The Foundation's principal office is located at 4557 Melan Dr. S.
-    Fairbanks, AK, 99712., but its volunteers and employees are scattered
+    Fairbanks, AK, 99712., but its volunteers and employee are scattered
     throughout numerous locations.  Its business office is located at
     809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
     business@pglaf.org.  Email contact links and up to date contact

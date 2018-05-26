@@ -60,11 +60,11 @@
             <li class="sub-menu dcjq-parent-li">
                 <a href="javascript:;" class="dcjq-parent">
                     <i class="fa fa-users"></i>
-                    <span>Employees Setup</span>
+                    <span>Employees Manage</span>
                     <span class="dcjq-icon"></span></a>
                 <ul class="sub" style="display: none;">
-                    <li><a href="/admin/add-employees">Add Employees</a></li>
-                    <li><a href="/admin/view-employees">View Employees</a></li>
+                    <li><a href="/admin/employee/add-employee">Add Employees</a></li>
+                    <li><a href="/admin/employee/view-employee">View Employees</a></li>
 
                 </ul>
             </li>
