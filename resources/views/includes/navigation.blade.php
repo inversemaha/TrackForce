@@ -13,21 +13,32 @@
 
             <li>
                 <a href="/admin/track-salesman-location">
-                    <i class="fa fa-users"></i>
+                    <i class="fa fa-map-marker"></i>
                     <span>Track Salesman Location</span>
                 </a>
             </li>
+
+{{--
+            <!--Track Order -->
+
+            <li>
+                <a href="/admin/track-salesman-location">
+                    <i class="fa fa-map-marker"></i>
+                    <span>Track Order</span>
+                </a>
+            </li>
+--}}
 
 
             <!-- Order Manage -->
             <li class="sub-menu dcjq-parent-li">
                 <a href="javascript:;" class="dcjq-parent">
-                    <i class="fa fa-sitemap"></i>
+                    <i class="fa fa-ambulance"></i>
                     <span>Order Setup</span>
                     <span class="dcjq-icon"></span></a>
                 <ul class="sub" style="display: none;">
                     <li><a href="/admin/add-order">Make Order Target</a></li>
-                    <li><a href="/admin/view-order">View Track Order</a></li>
+                    <li><a href="/admin/view-order">View Order Target</a></li>
 
                 </ul>
             </li>
@@ -35,7 +46,7 @@
             <!-- products Manage -->
             <li class="sub-menu dcjq-parent-li">
                 <a href="javascript:;" class="dcjq-parent">
-                    <i class="fa fa-sitemap"></i>
+                    <i class="fa fa-shopping-cart"></i>
                     <span>Products Setup</span>
                     <span class="dcjq-icon"></span></a>
                 <ul class="sub" style="display: none;">
@@ -48,7 +59,7 @@
             <!-- Employees Manage -->
             <li class="sub-menu dcjq-parent-li">
                 <a href="javascript:;" class="dcjq-parent">
-                    <i class="fa fa-sitemap"></i>
+                    <i class="fa fa-users"></i>
                     <span>Employees Setup</span>
                     <span class="dcjq-icon"></span></a>
                 <ul class="sub" style="display: none;">
@@ -61,7 +72,7 @@
             <!-- product Rating -->
             <li>
                 <a href="/admin/product-rating">
-                    <i class="fa fa-users"></i>
+                    <i class="fa fa-tags"></i>
                     <span>View product Rating</span>
                 </a>
             </li>
@@ -70,7 +81,7 @@
             <!--Client Manage -->
             <li class="sub-menu dcjq-parent-li">
                 <a href="javascript:;" class="dcjq-parent">
-                    <i class="fa fa-sitemap"></i>
+                    <i class="fa fa-shield"></i>
                     <span>Client Manage</span>
                     <span class="dcjq-icon"></span></a>
                 <ul class="sub" style="display: none;">
