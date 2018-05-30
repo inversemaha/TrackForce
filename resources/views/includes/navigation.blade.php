@@ -43,15 +43,26 @@
                 </ul>
             </li>
 
-            <!-- products Manage -->
+            <!-- Category Setup -->
+            <li class="sub-menu dcjq-parent-li">
+                <a href="javascript:;" class="dcjq-parent">
+                    <i class="fa fa-tags"></i>
+                    <span>Category Setup</span>
+                    <span class="dcjq-icon"></span></a>
+                <ul class="sub" style="display: none;">
+                    <li><a href="/admin/category/category-setup">Add New Category</a></li>
+                    <li><a href="/admin/category/view-category">View Category</a></li>
+
+                </ul>
+            </li>            <!-- products Manage -->
             <li class="sub-menu dcjq-parent-li">
                 <a href="javascript:;" class="dcjq-parent">
                     <i class="fa fa-shopping-cart"></i>
                     <span>Products Setup</span>
                     <span class="dcjq-icon"></span></a>
                 <ul class="sub" style="display: none;">
-                    <li><a href="/admin/add-product">Add New products</a></li>
-                    <li><a href="/admin/view-product">View products</a></li>
+                    <li><a href="/admin/product/add-product">Add New Products</a></li>
+                    <li><a href="/admin/product/view-product">View Products</a></li>
 
                 </ul>
             </li>

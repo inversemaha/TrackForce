@@ -37,7 +37,7 @@
                     <button data-dismiss="alert" class="close close-sm" type="button">
                         <i class="fa fa-times"></i>
                     </button>
-                    <strong>Oh snap!</strong> There was a problem.Student Academic detail not deleted
+
                 </div>
 
 

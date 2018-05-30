@@ -13,7 +13,7 @@
                     <ul class="breadcrumb">
                         <li><a href="/"><i class="fa fa-home"></i> Home</a></li>
                         <li><a href="#">Employee</a></li>
-                        <li class="active">View Employee</li>
+                        <li class="active">View Archive Employee</li>
                     </ul>
                     <!--breadcrumbs end -->
                 </div>

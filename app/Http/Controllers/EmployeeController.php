@@ -135,7 +135,7 @@ class EmployeeController extends Controller
         try {
 
             $edit_save_status = DB::table('users')->where('user_id', $id)->update($edit_emp_array);
-            return redirect('/admin/employee/view-employee')->with('success', 'Employee Deactivated successfully');
+            return redirect('/admin/employee/view-employee')->with('success', 'Employee Activated successfully');
 
         } catch (QueryException $ex) {
             $msg = $ex->getMessage();
